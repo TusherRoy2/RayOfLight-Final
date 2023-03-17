@@ -1,0 +1,338 @@
+@media (max-width:991px){
+
+    #aboutHead {
+        padding:1rem 3rem !important
+    }
+    #aboutHead .main-logo{
+        width:15rem;
+        height:auto;
+    }
+    .serviceHeader img {
+        width: 100%;
+        height: 50vh;
+    }
+    .serviceHeader h1 {
+        font-size: 3.6rem !important;
+    }
+    .service h1 {
+        font-size: 3.7rem;
+    }
+    .service .star i {
+        font-size: 1.7rem;
+    }
+    .serviceItem .serImg {
+        width: 13rem !important;
+    }
+    .serviceItem .serText h4 {
+        font-size: 1.7rem;
+    }
+    .serviceItem .serText h3 {
+        font-size: 1.7rem;
+    }
+    .serviceItem .serText h5 {
+        font-size: 1.3rem;
+    }
+    .serviceItem .serText p {
+        font-size: .9rem;
+    }
+
+    /* ?ABOUT US */
+
+    .lastRed {
+        width: 97% !important;
+        margin: auto !important;
+    }
+    .lastRed .serviceItem .serImg {
+        width: 15rem !important;
+        margin-left: 0%;
+    }
+    .lastRed .serviceItem .serText {
+        width: 43% !important;
+        margin-right: 14%;
+    }
+    .lastRed .serviceItem .serImg {
+        width: 13.2rem !important;
+        margin-left: 0%;
+    }
+
+    /* ?ADDRESS AREA */
+    .address h2 {
+        font-size: 3.7rem;
+    }
+    .address i {
+        font-size: 3.7rem;
+    }
+    .address h5 {
+        font-size: 1.3rem;
+    }
+
+    /* ?ABOUT US */
+
+    .aboutUs h2 {
+        font-size: 3.8rem;
+    }
+    .aboutUs p {
+        font-size: 1.3rem;
+    }
+    .aboutText p {
+        font-size: 1.2rem;
+        line-height: 1.2;
+    }
+    .aboutItem .aboutImg img {
+        width: 18rem !important;
+        height: 23rem !important;
+        margin: auto;
+    }
+
+    /* ?CONTACT AREA */
+
+    .contactForm form h1 {
+        font-size: 3.6rem;
+    }
+    .contactForm form p {
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .serviceHeader h1 {
+        font-size: 3.2rem !important;
+    }
+    .service h1 {
+        font-size: 3.3rem;
+    }
+    .service .star i {
+        font-size: 1.4rem;
+    }
+    .serviceItem .serImg {
+        width: 12rem !important;
+    }
+    .serviceItem .serImg {
+        width: 12rem !important;
+    }
+    .serviceItem .serText h3,
+    .serviceItem .serText h4 {
+        font-size: 1.5rem;
+    }
+    .serviceItem .serText h5 {
+        font-size: 1.2rem;
+    }
+    .serviceItem .serText p {
+        font-size: .8rem;
+    }
+    .lastRed .serviceItem .serImg {
+        width: 12rem !important;
+        margin-left: 0%;
+    }
+    .address h2 {
+        font-size: 3.3rem;
+    }
+
+    /* ?ABOUT US */
+
+    .aboutUs h2 {
+        font-size: 3.3rem;
+    }
+    .aboutUs p {
+        font-size: 1.1rem;
+    }
+    .aboutItem .aboutImg img {
+        width: 15rem !important;
+        height: 20rem !important;
+        margin: auto;
+    }
+    .aboutText p {
+        font-size: 1rem;
+        line-height: 1.2;
+    }
+
+    /* ?PRODUCT AREA */
+    .products .proText {
+        margin: auto;
+        width: 14rem;
+    }
+    .products .proImg, 
+    .products .proImg img {
+        width: 14rem !important;
+        height: 18rem !important;
+        margin: auto;
+    }
+
+    /* ?CONTACT ARER */
+    .contactForm form .Appointment {
+        display: flex;
+        justify-content: space-around;
+        padding: 3rem 0rem;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    .aboutText p {
+        font-size: .9rem;
+        line-height: 1.2;
+    }
+
+    /* ?CONTACT AREA */
+    .contactForm form h1 {
+        font-size: 3.2rem;
+    }
+    .contactForm form p {
+        font-size: 1.2rem;
+        width: 90%;
+    }
+    .contactForm form .AppInfo label {
+        font-size: 1.4rem;
+        margin-left: .2rem;
+    }
+    .contactForm form .AppInfo span {
+        font-size: .9rem;
+    }
+    
+}
+
+@media screen and (max-width: 580px) {
+    #aboutHead .main-logo{
+        width:12rem;
+        height:auto;
+    }
+
+    .serviceHeader h1 {
+        font-size: 2.5rem !important;
+    }
+    .serviceHeader .serHeaderText {
+        position: absolute !important;
+        top: 52% !important;
+        left: 3rem;
+        text-transform: capitalize;
+    }
+    .serviceHeader img {
+        width: 100%;
+        height: auto;
+    }
+    .service h1 {
+        font-size: 2.5rem;
+    }
+    .service .star i {
+        font-size: 1.1rem;
+    }
+    .serviceItem .serImg {
+        width: 10rem !important;
+    }
+    .lastRed .serviceItem .serImg {
+        width: 10rem !important;
+        margin-left: 1%;
+    }
+    .serviceItem .serText {
+        width: 16rem;
+        height: auto;
+        margin: auto;
+    }
+    .serviceItem .serText h3, .serviceItem .serText h4 {
+        font-size: 1.4rem;
+    }
+    .address h2 {
+        font-size: 3rem;
+    }
+    .address i {
+        font-size: 3.3rem;
+    }
+    .address h5 {
+        font-size: 1.1rem;
+    }
+
+    /* !ABOUT US */
+
+    .aboutUs h2 {
+        font-size: 3.1rem;
+    }
+    .aboutUs p {
+        font-size: 1.1rem;
+        margin-top: 4rem !important;
+    }
+    .aboutItem .aboutImg img {
+        width: 12rem !important;
+        height: 17rem !important;
+        margin: auto;
+    }
+    .aboutText p {
+        font-size: .8rem;
+        line-height: 1.2;
+    }
+
+    /* !PRODUCT AREA */
+    .products .proImg, .products .proImg img {
+        width: 13rem !important;
+        height: 17rem !important;
+        margin: auto;
+    }
+    .products .proText {
+        margin: auto;
+        width: 13rem;
+    }
+    .products .proText h3 {
+        font-size: 1.2rem;
+    }
+    .products .proText h4 {
+        font-size: 1.3rem;
+        margin-bottom: .3rem;
+    }
+    .products .proText .review i {
+        color: #d89905;
+        font-size: .8rem;
+    }
+    .products .proText .quantity a {
+        font-size: 1rem;
+    }
+    .products .proText button {
+        padding: .4rem 1.6rem;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    .serviceHeader h1 {
+        font-size: 2.2rem !important;
+    }
+    .serviceItem .serImg {
+        width: 9rem !important;
+    }
+    .lastRed .serviceItem .serImg {
+        width: 9rem !important;
+        margin-left: 2%;
+    }
+    .address h2 {
+        font-size: 2.7rem;
+    }
+    .address h5 {
+        font-size: 1rem;
+    }
+
+    /* !ABOUT US */
+
+    .aboutUs h2 {
+        font-size: 2.8rem;
+    }
+    .aboutUs p {
+        font-size: .9rem;
+        margin-top: 4rem !important;
+    }
+
+    /* ?CONTACT AREA */
+
+    .contactForm form h1 {
+        font-size: 2.8rem;
+    }
+    .contactForm form p {
+        font-size: 1rem;
+        width: 100%;
+    }
+    .contactForm form .AppInfo {
+        width: 85%;
+        height: auto;
+        margin: auto;
+    }
+    .contactForm form .AppInfo input {
+        padding: .4rem 1rem;
+    }
+
+}
